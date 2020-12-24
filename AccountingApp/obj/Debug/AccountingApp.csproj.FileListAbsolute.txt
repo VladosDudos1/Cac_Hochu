@@ -1,0 +1,34 @@
+D:\askr\Projects\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe.config
+D:\askr\Projects\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe
+D:\askr\Projects\AccountingApp\AccountingApp\bin\Debug\AccountingApp.pdb
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csprojAssemblyReference.cache
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\MainWindow.g.cs
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\App.g.cs
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp_MarkupCompile.cache
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp_MarkupCompile.lref
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\MainWindow.baml
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.g.resources
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.exe
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\AccountingApp.pdb
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\Pages\MainPage.g.cs
+D:\askr\Projects\AccountingApp\AccountingApp\obj\Debug\Pages\MainPage.baml
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csprojAssemblyReference.cache
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\MainWindow.g.cs
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\Pages\MainPage.g.cs
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\App.g.cs
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp_MarkupCompile.cache
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp_MarkupCompile.lref
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\MainWindow.baml
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\Pages\MainPage.baml
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.g.resources
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Users\kladl\OneDrive\Рабочий стол\AccountingApp\AccountingApp\obj\Debug\AccountingApp.pdb
